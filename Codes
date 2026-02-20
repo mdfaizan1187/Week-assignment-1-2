@@ -119,7 +119,7 @@ public class Level_One {
 
     }
 }
-
+// Que 10.
 import java.util.Scanner;
 
 public class Level_One {
